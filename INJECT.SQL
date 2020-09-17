@@ -1,0 +1,12 @@
+INSERT INTO `vehicles` (name, model, price, category, imglink) VALUES
+	('Blade','blade',25000,'muscle','imgs/blade.PNG'),
+    ('Buccaneer','buccaneer',25000,'muscle','imgs/buccaneer.PNG'),
+    ('Adder','adder',305000,'super','imgs/adder.PNG'),
+    ('Banshee','banshee',75000,'sports','imgs/banshee.PNG'),
+    ('BF Injection','bfinjection',15000,'offroad','imgs/bfinjection.PNG'),
+    ('Bifta','bifta',35000,'offroad','imgs/bifta.PNG'),
+    ('BMW S','bmws',15000,'motorcycles','imgs/bmws.PNG'),
+    ('Vigero','vigero',45000,'muscle','imgs/vigero.PNG'),
+    ('Virgo','Virgo',55000,'muscle','imgs/virgo.PNG'),
+    ('VooDoo','voodoo',55000,'muscle','imgs/voodoo.PNG'),
+    ('Zentorno','zentorno',55000,'super','imgs/zentorno.PNG'),
