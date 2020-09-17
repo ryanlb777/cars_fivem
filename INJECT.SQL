@@ -10,3 +10,17 @@ INSERT INTO `vehicles` (name, model, price, category, imglink) VALUES
     ('Virgo','Virgo',55000,'muscle','imgs/virgo.PNG'),
     ('VooDoo','voodoo',55000,'muscle','imgs/voodoo.PNG'),
     ('Zentorno','zentorno',55000,'super','imgs/zentorno.PNG'),
+
+
+fxmanifest.lua
+"HTML/imgs/adder.png",
+"HTML/imgs/banshee.png",
+"HTML/imgs/bfinjection.png",
+"HTML/imgs/bifta.png",
+"HTML/imgs/blade.png",
+"HTML/imgs/bmws.png",
+"HTML/imgs/buccaneer.png",
+"HTML/imgs/vigero.png",
+"HTML/imgs/voodoo.png",
+"HTML/imgs/virgo.png",
+"HTML/imgs/zentorno.png",
